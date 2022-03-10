@@ -1,0 +1,12 @@
+div{
+    height: 300px;
+    width: 200px;
+    background-color: rgb(15, 15, 15);
+    color: cornsilk;
+    padding: 20px;
+    padding-top: 20px;
+    /* padding left top right bootom */
+}
+#a2{
+    margin-top: 100px;
+}

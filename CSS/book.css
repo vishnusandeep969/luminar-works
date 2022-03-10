@@ -1,0 +1,17 @@
+div
+{
+    width: 24%;
+    height: 600px;
+    background-color: rgb(99, 98, 94);
+    border:black solid 1px ;
+    float: left;
+    border-radius: 10px;
+}
+img
+{
+    width: 100%;
+    height: 300px; ;
+}
+h2{
+    text-align: center;
+}

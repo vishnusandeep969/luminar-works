@@ -1,0 +1,18 @@
+h1{
+    color: darkviolet;
+}
+span{
+    color: forestgreen;
+}
+#a1{
+    color: hotpink;
+}
+button{
+    background-color: indigo;
+    color: ivory;
+    border-radius: 20px;
+}
+button:hover{
+    background-color: ivory;
+    color: blue;
+}

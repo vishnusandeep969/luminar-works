@@ -1,0 +1,19 @@
+#b1{
+    height: 200px;
+    width: 300px;
+    background-color: rgb(228, 36, 36);
+    color: cornsilk;
+    position: relative;
+}
+#b2{
+    background-color: cyan;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    margin-left: 50%;
+}
+
+/* if not given position its satic */
+/* static
+absolute
+relative */
